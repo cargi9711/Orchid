@@ -1,0 +1,4 @@
+orchid_system:
+  default_temperature: 22
+  default_humidity: 70
+  watering_frequency_days: 7
