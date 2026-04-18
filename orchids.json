@@ -1,0 +1,5 @@
+[
+  { "name": "Phalaenopsis", "color": "White", "origin": "Asia" },
+  { "name": "Cattleya", "color": "Purple", "origin": "South America" },
+  { "name": "Dendrobium", "color": "Pink", "origin": "Australia" }
+]
